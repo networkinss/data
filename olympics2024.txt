@@ -1,4 +1,5 @@
 <html>
+<title>Olympics 2024 Website</title>
 <body>
 Wednesday 24 July 2024
 
